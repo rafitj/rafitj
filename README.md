@@ -1,9 +1,8 @@
-### Hi, I'm Rafit! 👋
+### Hi, I'm Rafit
+I love [coffee](https://www.instagram.com/coffee.w.vibes) and work at [openai](https://github.com/openai)
 
-I'm a SWE @ [Google](https://github.com/google). 
+I studied software eng at [uwaterloo](https://github.com/uwaterloo) and previously was at [google](https://github.com/google), [meta](https://github.com/facebook), [amazon](https://github.com/amzn), [salesforce](https://github.com/salesforce) and [lumafield](https://github.com/lumafield)
 
-I studied Software Engineering at the University of Waterloo.
+Let's connect :)
 
-Previously I was at [Meta](https://github.com/facebook), [Amazon](https://github.com/amzn), [Salesforce](https://github.com/salesforce), [Lumafield](https://github.com/lumafield), [Setter](https://github.com/setter) and [MLSE](https://github.com/torontofc).
-
-Let's connect. :coffee:
+ :coffee:
